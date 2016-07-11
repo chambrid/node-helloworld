@@ -1,5 +1,4 @@
 ---
 applications:
-- name:    hello-node
-  host:    hello-node
+- name:    cah0711
   memory:  128M
