@@ -1,4 +1,5 @@
 ---
 applications:
 - name:    cah0711
+  host:    cah0711
   memory:  128M
